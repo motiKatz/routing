@@ -1,0 +1,4 @@
+ li.selected{
+    border-block-color: red;
+    color:blue ;
+}
